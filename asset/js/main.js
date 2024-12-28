@@ -170,3 +170,25 @@ prevTestimonialBtn.addEventListener("click", () => {
 
 
 // Close Testimonial section
+
+
+
+
+
+
+
+
+// ABOUT PAGE
+
+
+
+
+// TEAM SECTION
+
+
+
+
+
+
+
+
